@@ -1,6 +1,6 @@
 # Code Refactor Starter Code
 
-![image](\horiseon-marketing\assets\readme-assets?raw=true "Webpage screenshot")
+![image](\horiseon-marketing\assets\readme-assets "Webpage screenshot")
 
 ## Description
 
